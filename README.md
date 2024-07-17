@@ -1,1 +1,1 @@
-[a link](https://stream-galaxy.vercel.app/)
+[Stream Galaxy](https://stream-galaxy.vercel.app/)
